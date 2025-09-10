@@ -1,0 +1,30 @@
+{
+  "name": "BranZonic",
+  "symbol": "BRON",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "BranZonic (BRON) is a next-generation community-driven project aiming to merge fashion, e-commerce, and blockchain innovation. It is designed for utility, scalability, and long-term ecosystem growth.",
+  "website": "https://BranZonic.com",
+  "explorer": "https://polygonscan.com/token/0xA1375074BcC0042b2B35F3Af6a943D0DFbE801e9",
+  "status": "active",
+  "id": "0xA1375074BcC0042b2B35F3Af6a943D0DFbE801e9",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/BranZonic"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/BranZonic"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com/@BranZonic"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/BranZonic"
+    }
+  ],
+  "logo": "https://raw.githubusercontent.com/branzonic/BranZonic/f584715c1693e320f4eeeb945143854ac0012d1e/logo%20(1).png"
+}
